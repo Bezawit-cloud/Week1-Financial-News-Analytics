@@ -1,6 +1,9 @@
 # Python
 tas1/
 .venv/
+data/
+data/y_finance data/
+
 
 
 __pycache__/
